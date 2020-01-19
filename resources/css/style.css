@@ -1,0 +1,62 @@
+body{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("img/background.jpg");
+}
+
+h1{
+    color: darkcyan;
+}
+
+
+ 
+.mycontainer{
+    height: 100px;
+	text-align: center;
+	margin-top: 30%;
+    padding-top: 2%;
+    background-color:  rgba(1, 10, 0, 0.2);
+    border-radius: 100px;
+}
+
+.container{
+    margin-top: 5%;
+    width: auto;
+}
+
+
+ 
+tbody{
+    background-color: rgba(255,255,255,0.3);
+    color:antiquewhite;
+}
+
+.mrg-left{
+    margin-left: 42%;
+} 
+
+
+.tablecontainer{
+    width: 800px;
+    height: auto;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 30%;
+}
+
+.wth{
+    width: 49%;
+}
+
+.wth-single{
+    width: 25%;
+}
+
+.wth-full{
+    width: 100%;
+}
+
+.mrg-top{
+    margin-top: 2%;
+}
+
+
+
